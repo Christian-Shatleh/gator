@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791404740274,
+      "tag": "0000_steep_tony_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791405603504,
+      "tag": "0001_far_maverick",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791582682388,
+      "tag": "0002_sticky_miek",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791584122220,
+      "tag": "0003_slippery_jack_murdock",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791584225428,
+      "tag": "0004_old_lady_mastermind",
+      "breakpoints": true
+    }
+  ]
+}
